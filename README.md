@@ -1,7 +1,4 @@
-# tu-dien-chieu-sang-dong-luc
-Thiết kế bản vẽ tủ điện chiếu sáng &amp; động lực trên AutoCAD
 # Tủ điện Chiếu sáng & Động lực
-
 ## Giới thiệu
 Dự án thiết kế bản vẽ tủ điện kết hợp chiếu sáng và động lực bằng phần mềm AutoCAD. 
 Bộ bản vẽ bao gồm mặt trước tủ, sơ đồ nguyên lý mạch động lực và mạch điều khiển, phù hợp với các công trình M&E quy mô nhỏ.
