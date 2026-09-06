@@ -1,0 +1,11 @@
+# AutoCAD temporary/backup files
+*.bak
+*.sv$
+*.ac$
+*.dwl
+*.dwl2
+*.tmp
+
+# Windows
+Thumbs.db
+Desktop.ini
